@@ -1,0 +1,8 @@
+
+> dataapi@1.0.0 start /home/linus/Documents/Workspace/DataAPI
+> node app.js
+
+[INFO] DataAPI listening on port 8080
+[INFO] Established connection to database
+[INFO] File 'newsletter.txt' was requested by 'kjawjnajdbahbjashbaefhbjaefhbjeahj' (authorized)
+[INFO] File 'newsletter.txt' was requested by 'kjawjnajdbahbjashbaefhbjaefhbjeahj' (authorized)

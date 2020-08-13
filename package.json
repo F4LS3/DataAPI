@@ -4,7 +4,7 @@
   "description": "An api to request data from a server secured through api-tokens",
   "main": "app.js",
   "scripts": {
-    "start": "node app.js"
+    "start": "node app.js | tee ./data/test/logfile.log"
   },
   "repository": {
     "type": "git",
