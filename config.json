@@ -1,0 +1,12 @@
+{
+    "database": {
+        "host": "localhost",
+        "user": "linus",
+        "password": "Anf10@ng20De",
+        "database": "dataapi"
+    },
+
+    "forbiddenFileEndings": [
+        ".sql"
+    ]
+}
